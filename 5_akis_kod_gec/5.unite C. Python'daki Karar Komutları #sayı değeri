@@ -1,0 +1,8 @@
+#sayının değeri
+a=int(input("bir sayı giriniz"))
+if(a>0):
+    print("pozitif")
+elif(a<0):
+    print("negatif")
+else:
+    print("sıfır")
